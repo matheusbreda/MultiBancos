@@ -1,0 +1,2 @@
+-Aula guia: https://www.youtube.com/watch?v=rr5xk_izTSk
+-GitHub da aula: https://github.com/matheuspieropan/aula-youtube/tree/main/Spring%20Framework/data/jpa/2-%20M%C3%BAltiplos%20bancos
